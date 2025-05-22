@@ -38,4 +38,4 @@ pwd
 date
 
 # Launch serial code...
-./split_all.sh       # Do not use ibrun or any other MPI launcher
+./prepare_all.sh       # Do not use ibrun or any other MPI launcher
